@@ -11,7 +11,7 @@ Example usage:
     $ ls
     server.js
 
-    $ heroku create --stack cedar --buildpack https://github.com/tomaslin/heroku-buildpack-vertx-jdk7.git
+    $ heroku create --stack cedar --buildpack https://github.com/gemmell/heroku-buildpack-vertx-jdk7
 	
 	$ git push heroku master
 
